@@ -4,6 +4,7 @@ Participation to the [Bird Challenge Classification](https://www.kaggle.com/comp
 
 ![alt text](https://github.com/danielAmar02/CV_Classification/blob/main/pres.png)
 
+For the data, please click [here](https://www.di.ens.fr/willow/teaching/recvis18orig/assignment3/bird_dataset.zip). 
 
 ## Few Insights
 
