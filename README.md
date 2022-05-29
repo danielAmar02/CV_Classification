@@ -36,7 +36,7 @@ The major improvement I made was to used a pre-trained model on ImageNet (I used
 
 Lastly, I realized that maybe some of the pictures were difficult to classify because of the environment (see example below). I tried to use the pretrained image segmentation model Mask R-CNN trained on the COCO dataset which allows to focus on the birds and then to reach a final 89% accuracy.
 
-![alt text](https://github.com/danielAmar02/CV_Classification/blob/main/difficult.png0
+![alt text](https://github.com/danielAmar02/CV_Classification/blob/main/difficult.png)
 
 
 ## Ideas to improve classification
